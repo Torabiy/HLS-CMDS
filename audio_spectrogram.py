@@ -8,9 +8,6 @@ This Python script plots the Mel-spectrograms of multiple audio files using `lib
 - Customize frequency range and Mel band limits.
 - Include a color bar for better interpretation of dB scale values.
 
-## Acknowledgment:
-We would like to acknowledge the Mohawk Institute for Applied Health Sciences (IAHS) for their assistance in data collection using patient simulators.
-
 ## Citation:
 If you use this code or the associated dataset in your research, please cite the following:
 - Heart and Lung Sounds Dataset Recorded from a Clinical Manikin using Digital Stethoscope (HLS-CMDS), Yasaman Torabi, Shahram Shirani, James P. Reilly. McMaster University.
