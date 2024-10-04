@@ -9,9 +9,6 @@ This Python script allows you to visualize and plot time-domain waveforms of aud
 - Save the figure as an image file.
 - Play the audio file directly using IPython.
 
-## Acknowledgment:
-We would like to acknowledge the Mohawk Institute for Applied Health Sciences (IAHS) for their assistance in data collection using patient simulators.
-
 ## Citation:
 If you use this code or the associated dataset in your research, please cite the following:
 - Heart and Lung Sounds Dataset Recorded from a Clinical Manikin using Digital Stethoscope (HLS-CMDS), Yasaman Torabi, Shahram Shirani, James P. Reilly. McMaster University.
