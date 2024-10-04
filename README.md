@@ -39,7 +39,7 @@ This repository includes Python scripts designed to work with the **Heart and Lu
 - `matplotlib` for plotting waveforms and spectrograms
 - `numpy` for data manipulation and mathematical operations
 
-## Acknowledgment and Copyright
+## Acknowledgment
 
 We would like to acknowledge the Mohawk Institute for Applied Health Sciences (IAHS) for their assistance in data collection using the patient simulators.
 
