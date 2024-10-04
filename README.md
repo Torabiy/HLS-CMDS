@@ -47,5 +47,5 @@ If you use this dataset or any part of the associated code, please cite:
 - Mendeley Data Repository: [INSERT Mendeley DOI HERE]. 
 - Dataset Article: [INSERT Article DOI HERE].
 
-© 2024 by Yasaman Torabi, Shahram Shirani, and James P. Reilly. All rights reserved.
+© 2024 by Yasaman Torabi. All rights reserved.
 
