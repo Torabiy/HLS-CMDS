@@ -9,7 +9,7 @@
 
 ## About the Dataset
 
-This dataset contains high-quality recordings of heart and lung sounds captured using a digital stethoscope from a clinical manikin. This dataset includes both individual and mixed recordings of heart and lung sounds. It includes recordings from different anatomical chest locations, with normal and abnormal sounds. Each recording has been filtered to highlight specific sound types, making it valuable for artificial intelligence (AI) research and applications in areas such as automated cardiopulmonary disease detection, sound classification, and deep learning algorithms related to audio signal processing.
+This dataset contains 210 recordings of heart and lung sounds captured using a digital stethoscope from a clinical manikin, including both individual and mixed recordings of heart and lung sounds; 50 heart sounds, 50 lung sounds, and 110 mixed sounds. It includes recordings from different anatomical chest locations, with normal and abnormal sounds. Each recording has been filtered to highlight specific sound types, making it valuable for artificial intelligence (AI) research and applications in areas such as automated cardiopulmonary disease detection, sound classification, and deep learning algorithms related to audio signal processing.
 
 - **Recording Sources:** Heart and lung sounds captured from a clinical manikin simulating real physiological conditions.
 - **Data Type:** Audio files (.wav format)
