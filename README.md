@@ -10,6 +10,8 @@ This dataset contains high-quality recordings of heart and lung sounds captured 
 - **Auscultation Landmarks:** Right Upper Sternal Border, Left Upper Sternal Border, Lower Left Sternal Border, Right Costal Margin, Left Costal Margin, Apex, Right Upper Anterior, Left Upper Anterior, Right Mid Anterior, Left Mid Anterior, Right Lower Anterior, and Left Lower Anterior.
 - **Applications:** AI-based cardiopulmonary disease detection, unsupervised sound separation techniques, deep learning for audio signal processing.
 
+ For more details on the dataset, including collection methods and technical information, please refer to:
+
 ## About the Code
 
 This repository includes Python scripts designed to work with the **Heart and Lung Sounds Dataset (HLS-CMDS)**. The provided code helps in visualizing and analyzing the audio signals in different ways. Below are the main features of the code:
@@ -20,7 +22,7 @@ This repository includes Python scripts designed to work with the **Heart and Lu
 - **Time-Frequency Mel Spectrogram Plotting (`Audio_spectogram.py`):** 
   The code includes functionality to compute and visualize Mel spectrograms, which represent the frequency content of the heart and lung sounds over time, providing insights into the sound’s spectral properties.
 
-- **Demographic Information Visualization (`donut_chart.py`):** 
+- **Demographic Information Visualization (`Donut_chart.py`):** 
   Additionally, the code supports the visualization of demographic data related to the dataset, including the anatomical locations where the sounds were recorded. This helps users understand the dataset’s distribution across different recording locations and sound types.
 
 ### Key Libraries Used:
@@ -32,7 +34,9 @@ This repository includes Python scripts designed to work with the **Heart and Lu
 
 We would like to acknowledge the Mohawk Institute for Applied Health Sciences (IAHS) for their assistance in data collection using the patient simulators.
 
-If you use this dataset or any part of the associated code, please cite the following DOI from Mendeley Data: [INSERT Mendeley DOI HERE]. Additionally, if you reference this dataset in your research, please also cite the related article using the following DOI: [INSERT Article DOI HERE].
+If you use this dataset or any part of the associated code, please cite:
+- Mendeley Data Repository: [INSERT Mendeley DOI HERE]. 
+- Dataset Article: [INSERT Article DOI HERE].
 
 © 2024 by Yasaman Torabi, Shahram Shirani, and James P. Reilly. All rights reserved.
 
