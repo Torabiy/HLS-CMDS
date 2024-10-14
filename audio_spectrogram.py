@@ -9,11 +9,10 @@ This Python script plots the Mel-spectrograms of multiple audio files using `lib
 - Include a color bar for better interpretation of dB scale values.
 
 ## Citation:
-If you use this code or the associated dataset in your research, please cite the following:
-- Torabi, Yasaman; Shirani, Shahram; Reilly, James P. (2024),
-“HLS-CMDS: Heart and Lung Sounds Dataset Recorded from a Clinical Manikin using Digital Stethoscope”,
-Mendeley Data, V1, doi: 10.17632/8972jxbpmp.1
-- Related Article DOI: [Insert Related Article DOI Here]
+If you use this code or the associated dataset in your research, please cite the following paper:
+- Torabi, Y., Shirani, S., & Reilly, J. P. (2024), 
+Manikin-Recorded Cardiopulmonary Sounds Dataset Using Digital Stethoscope,
+arXiv preprint, https://doi.org/10.48550/arXiv.2410.03280
 
 ## Copyright:
 © 2024 by Yasaman Torabi. All rights reserved.
