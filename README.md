@@ -44,12 +44,10 @@ This repository includes Python scripts designed to work with the **Heart and Lu
 We would like to acknowledge the Mohawk Institute for Applied Health Sciences (IAHS) for their assistance in data collection using the patient simulators.
 
 ## Citation:
-If you use this code or the associated dataset in your research, please cite the following:
-- Torabi, Yasaman; Shirani, Shahram; Reilly, James P. (2024),
-“HLS-CMDS: Heart and Lung Sounds Dataset Recorded from a Clinical Manikin using Digital Stethoscope”,
-Mendeley Data, V1, https://doi.org/10.17632/8972jxbpmp.1
-
-- Dataset Article: [INSERT Article DOI HERE].
+If you use this code or the associated dataset in your research, please cite the following paper:
+- Torabi, Y., Shirani, S., & Reilly, J. P. (2024), 
+Manikin-Recorded Cardiopulmonary Sounds Dataset Using Digital Stethoscope,
+arXiv preprint, https://doi.org/10.48550/arXiv.2410.03280
 
 © 2024 by Yasaman Torabi. All rights reserved.
 
