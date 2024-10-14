@@ -44,7 +44,7 @@ This repository includes Python scripts designed to work with the **Heart and Lu
 We would like to acknowledge the Mohawk Institute for Applied Health Sciences (IAHS) for their assistance in data collection using the patient simulators.
 
 ## Citation:
-If you use this code or the associated dataset in your research, please cite the following paper:
+If you use this code in your research, please cite the following paper:
 - Torabi, Y., Shirani, S., & Reilly, J. P. (2024), 
 Manikin-Recorded Cardiopulmonary Sounds Dataset Using Digital Stethoscope,
 arXiv preprint, https://doi.org/10.48550/arXiv.2410.03280
