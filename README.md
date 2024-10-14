@@ -3,8 +3,8 @@
 
 **For more details, including collection methods and technical information, please visit:**
 
-- **Mendeley Data DOI**: https://doi.org/10.17632/8972jxbpmp.1
-- **Dataset Paper DOI**: [Insert Dataset Paper DOI Here](https://doi.org/InsertDatasetPaperDOI)
+- **Mendeley Database**: https://doi.org/10.17632/8972jxbpmp.1
+- **Related Paper**: https://doi.org/10.48550/arXiv.2410.03280
 
 
 ## About the Dataset
