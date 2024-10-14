@@ -1,0 +1,111 @@
+Gender,Heart Sound Type,Lung Sound Type,Location,Sound ID
+F,Late Systolic Murmur,Rhonchi,LUSB,F_LSM_R_LUSB
+F,S3,Normal,RLA,F_S3_N_RLA
+M,Atrial Fibrillation,Normal,LMA,M_AF_N_LMA
+F,S3,Gurgling,Apex,F_S3_G_A
+M,AV Block,Crackles,RUSB,M_AVB_C_RUSB
+F,S3,Pleural Rub,RC,F_S3_PR_RC
+M,Tachycardia,Pleural Rub,Apex,M_T_PR_A
+F,Early Systolic Murmur,Pleural Rub,LMA,F_ESM_PR_LMA
+M,Mid Systolic Murmur,Wheezing,LUA,M_MSM_W_LUA
+F,Early Systolic Murmur,Gurgling,LUA,F_ESM_G_LUA
+M,S4,Normal,Apex,M_S4_N_A
+F,AV Block,Rhonchi,RMA,F_AVB_R_RMA
+F,Atrial Fibrillation,Pleural Rub,RC,F_AF_PR_RC
+F,Late Diastolic Murmur,Rhonchi,LUA,F_LDM_R_LUA
+F,Late Diastolic Murmur,Gurgling,LUA,F_LDM_G_LUA
+F,Atrial Fibrillation,Rhonchi,RLA,F_AF_R_RLA
+F,S3,Gurgling,RC,F_S3_G_RC
+F,Late Systolic Murmur,Wheezing,RMA,F_LSM_W_RMA
+M,Tachycardia,Pleural Rub,RUA,M_T_PR_RUA
+F,Late Diastolic Murmur,Normal,RLA,F_LDM_N_RLA
+M,Late Systolic Murmur,Gurgling,LUSB,M_LSM_G_LUSB
+M,AV Block,Crackles,LMA,M_AVB_C_LMA
+M,Tachycardia,Normal,LC,M_T_N_LC
+M,S4,Wheezing,LUSB,M_S4_W_LUSB
+M,Atrial Fibrillation,Pleural Rub,RC,M_AF_PR_RC
+F,S3,Pleural Rub,LUSB,F_S3_PR_LUSB
+M,Late Diastolic Murmur,Gurgling,RMA,M_LDM_G_RMA
+F,AV Block,Gurgling,RC,F_AVB_G_RC
+M,Tachycardia,Pleural Rub,LC,M_T_PR_LC
+F,S4,Pleural Rub,RC,F_S4_PR_RC
+F,Late Systolic Murmur,Crackles,RC,F_LSM_C_RC
+F,Tachycardia,Pleural Rub,LUA,F_T_PR_LUA
+F,Late Systolic Murmur,Crackles,LUSB,F_LSM_C_LUSB
+M,Early Systolic Murmur,Gurgling,RC,M_ESM_G_RC
+M,S4,Crackles,RLA,M_S4_C_RLA
+M,S3,Normal,LUA,M_S3_N_LUA
+M,AV Block,Normal,LLSB,M_AVB_N_LLSB
+F,S3,Normal,LLSB,F_S3_N_LLSB
+M,Normal,Wheezing,LC,M_N_W_LC
+M,Tachycardia,Rhonchi,LC,M_T_R_LC
+F,Atrial Fibrillation,Normal,LLA,F_AF_N_LLA
+F,Mid Systolic Murmur,Gurgling,RUA,F_MSM_G_RUA
+M,Tachycardia,Pleural Rub,LLSB,M_T_PR_LLSB
+M,Normal,Gurgling,RC,M_N_G_RC
+M,Late Diastolic Murmur,Crackles,LLSB,M_LDM_C_LLSB
+F,Atrial Fibrillation,Normal,LMA,F_AF_N_LMA
+M,Atrial Fibrillation,Rhonchi,RMA,M_AF_R_RMA
+F,S4,Wheezing,RLA,F_S4_W_RLA
+M,S4,Rhonchi,RUA,M_S4_R_RUA
+F,Early Systolic Murmur,Wheezing,LUSB,F_ESM_W_LUSB
+F,Tachycardia,Normal,RC,F_T_N_RC
+F,Early Systolic Murmur,Pleural Rub,LC,F_ESM_PR_LC
+F,Atrial Fibrillation,Gurgling,LLSB,F_AF_G_LLSB
+F,Late Diastolic Murmur,Wheezing,RUSB,F_LDM_W_RUSB
+M,Late Systolic Murmur,Crackles,RC,M_LSM_C_RC
+F,AV Block,Rhonchi,LUSB,F_AVB_R_LUSB
+F,Late Diastolic Murmur,Gurgling,RLA,F_LDM_G_RLA
+M,S4,Rhonchi,RUSB,M_S4_R_RUSB
+F,S3,Pleural Rub,RLA,F_S3_PR_RLA
+M,Late Diastolic Murmur,Wheezing,LMA,M_LDM_W_LMA
+F,S4,Rhonchi,LLSB,F_S4_R_LLSB
+F,Tachycardia,Gurgling,RMA,F_T_G_RMA
+F,S4,Pleural Rub,RUA,F_S4_PR_RUA
+M,S4,Pleural Rub,Apex,M_S4_PR_A
+F,Atrial Fibrillation,Pleural Rub,Apex,F_AF_PR_A
+M,Normal,Normal,LLSB,M_N_N_LLSB
+F,Atrial Fibrillation,Rhonchi,RUA,F_AF_R_RUA
+M,S3,Crackles,RUSB,M_S3_C_RUSB
+M,Late Systolic Murmur,Gurgling,RLA,M_LSM_G_RLA
+F,Late Systolic Murmur,Normal,LUA,F_LSM_N_LUA
+M,S3,Rhonchi,RUSB,M_S3_R_RUSB
+M,S3,Pleural Rub,Apex,M_S3_PR_A
+M,Mid Systolic Murmur,Pleural Rub,LMA,M_MSM_PR_LMA
+F,Normal,Normal,RUA,F_N_N_RUA
+F,Early Systolic Murmur,Pleural Rub,LUSB,F_ESM_PR_LUSB
+F,Mid Systolic Murmur,Crackles,LMA,F_MSM_C_LMA
+F,Late Diastolic Murmur,Rhonchi,RUA,F_LDM_R_RUA
+M,Late Systolic Murmur,Normal,RMA,M_LSM_N_RMA
+F,Tachycardia,Gurgling,LC,F_T_G_LC
+M,Mid Systolic Murmur,Pleural Rub,LUSB,M_MSM_PR_LUSB
+F,Late Systolic Murmur,Wheezing,LLSB,F_LSM_W_LLSB
+F,Late Systolic Murmur,Crackles,LUA,F_LSM_C_LUA
+M,AV Block,Pleural Rub,LLSB,M_AVB_PR_LLSB
+M,Early Systolic Murmur,Normal,LMA,M_ESM_N_LMA
+F,Normal,Rhonchi,LC,F_N_R_LC
+M,Mid Systolic Murmur,Wheezing,LMA,M_MSM_W_LMA
+M,Atrial Fibrillation,Gurgling,LMA,M_AF_G_LMA
+M,S4,Rhonchi,LC,M_S4_R_LC
+M,Mid Systolic Murmur,Wheezing,LC,M_MSM_W_LC
+M,Tachycardia,Rhonchi,RUA,M_T_R_RUA
+M,Atrial Fibrillation,Rhonchi,RUSB,M_AF_R_RUSB
+M,S4,Wheezing,RC,M_S4_W_RC
+M,AV Block,Gurgling,LMA,M_AVB_G_LMA
+M,Late Systolic Murmur,Rhonchi,LC,M_LSM_R_LC
+F,Mid Systolic Murmur,Normal,Apex,F_MSM_N_A
+M,Normal,Rhonchi,LUA,M_N_R_LUA
+F,Late Diastolic Murmur,Pleural Rub,RUSB,F_LDM_PR_RUSB
+M,Tachycardia,Wheezing,LUSB,M_T_W_LUSB
+F,AV Block,Crackles,RUSB,F_AVB_C_RUSB
+F,Late Systolic Murmur,Gurgling,LLSB,F_LSM_G_LLSB
+M,Late Systolic Murmur,Wheezing,RMA,M_LSM_W_RMA
+M,Atrial Fibrillation,Pleural Rub,RLA,M_AF_PR_RLA
+F,Normal,Wheezing,LLA,F_N_W_LLA
+M,Mid Systolic Murmur,Crackles,LUSB,M_MSM_C_LUSB
+F,Late Systolic Murmur,Wheezing,RUSB,F_LSM_W_RUSB
+M,Normal,Rhonchi,RC,M_N_R_RC
+M,Normal,Pleural Rub,LLSB, M_N_PR_LLSB
+F,Late Systolic Murmur,Rhonchi,LUA,F_LSM_R_LUA
+F,Mid Systolic Murmur,Crackles,LLA,F_MSM_C_LLA
+F,Early Systolic Murmur,Normal,RLA,F_ESM_N_RLA
