@@ -1,7 +1,7 @@
 # Heart and Lung Sounds Dataset Recorded from a Clinical Manikin using Digital Stethoscope (HLS-CMDS)
 
 
-**For more details, including collection methods and technical information, please visit:**
+**For downloading the dataset and more details, including collection methods and technical information, please visit:**
 
 - **Mendeley Database**: https://doi.org/10.17632/8972jxbpmp.1
 - **Related Paper**: https://doi.org/10.48550/arXiv.2410.03280
