@@ -16,6 +16,7 @@ This dataset contains 535 recordings of heart and lung sounds captured using a d
 - **Sound Types:** Normal Heart, Late Diastolic Murmur, Mid Systolic Murmur, Late Systolic Murmur, Atrial Fibrillation, Fourth Heart Sound, Early Systolic Murmur, Third Heart Sound, Tachycardia, Atrioventricular Block, Normal Lung, Wheezing, Fine Crackles, Rhonchi, Pleural Rub, and Coarse Crackles.
 - **Auscultation Landmarks:** Right Upper Sternal Border, Left Upper Sternal Border, Lower Left Sternal Border, Right Costal Margin, Left Costal Margin, Apex, Right Upper Anterior, Left Upper Anterior, Right Mid Anterior, Left Mid Anterior, Right Lower Anterior, and Left Lower Anterior.
 - **Applications:** AI-based cardiopulmonary disease detection, unsupervised sound separation techniques, deep learning for audio signal processing.
+- **Large Zip File Notice:** Please extract Mix1.zip, Mix2.zip, and Mix3.zip, then merge the contents to create Mix.zip.
 
 ## About the Dataset - Version 1
 
