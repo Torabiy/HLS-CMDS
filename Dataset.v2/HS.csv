@@ -1,0 +1,51 @@
+Gender,Heart Sound Type,Location,Heart Sound ID
+F,Normal,RC,F_N_RC
+F,Normal,LC,F_N_LC
+M,Normal,RUSB,M_N_RUSB
+F,Normal,LUSB,F_N_LUSB
+F,Normal,LLSB,F_N_LLSB
+F,Normal,Apex,F_N_A
+M,Late Diastolic Murmur,LC,M_LDM_LC
+M,Mid Systolic Murmur,Apex,M_MSM_A
+F,Normal,RUSB,F_N_RUSB
+F,Mid Systolic Murmur,Apex,F_MSM_A
+M,Normal,LC,M_N_LC
+F,Late Systolic Murmur,LUSB,F_LSM_LUSB
+M,Late Systolic Murmur,RUSB,M_LSM_RUSB
+F,Atrial Fibrillation,Apex,F_AF_A
+F,S4,RC,F_S4_RC
+F,Early Systolic Murmur,RUSB,F_ESM_RUSB
+F,Late Systolic Murmur,Apex,F_LSM_A
+M,Mid Systolic Murmur,LUSB,M_MSM_LUSB
+F,Early Systolic Murmur,LUSB,F_ESM_LUSB
+M,Mid Systolic Murmur,RC,M_MSM_RC
+M,Late Diastolic Murmur,LUSB,M_LDM_LUSB
+M,Early Systolic Murmur,RUSB,M_ESM_RUSB
+M,S3,LUSB,M_S3_LUSB
+F,Late Diastolic Murmur,Apex,F_LDM_A
+M,Early Systolic Murmur,LUSB,M_ESM_LUSB
+F,S3,LLSB,F_S3_LLSB
+M,Late Diastolic Murmur,LLSB,M_LDM_LLSB
+F,Atrial Fibrillation,LUSB,F_AF_LUSB
+F,Tachycardia,LC,F_T_RC
+F,Tachycardia,Apex,F_T_A
+F,Late Diastolic Murmur,LUSB,F_LDM_LUSB
+F,S3,Apex,F_S3_A
+M,S4,LUSB,M_S4_LUSB
+M,AV Block,LLSB,M_AVB_LLSB
+F,S3,LC,F_S3_LC
+M,AV Block,Apex,M_AVB_A
+M,Tachycardia,LUSB,M_T_LUSB
+M,Atrial Fibrillation,LC,M_AF_LC
+M,Late Systolic Murmur,LUSB,M_LSM_LUSB
+F,Late Diastolic Murmur,LLSB,F_LDM_LLSB
+F,Mid Systolic Murmur,LUSB,F_MSM_LUSB
+F,Mid Systolic Murmur,LLSB,F_MSM_LLSB
+M,AV Block,RC,M_AVB_RC
+M,Normal,LLSB,M_N_LLSB
+M,Mid Systolic Murmur,RUSB,M_MSM_RUSB
+M,S3,LLSB,M_S3_LLSB
+F,Early Systolic Murmur,LLSB,F_ESM_LLSB
+F,Late Systolic Murmur,LLSB,F_LSM_LLSB
+M,Early Systolic Murmur,Apex,M_ESM_A
+M,Atrial Fibrillation,RUSB,M_AF_RUSB

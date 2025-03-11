@@ -1,0 +1,51 @@
+Gender,Lung Sound Type,Location,Lung Sound ID
+M,Normal,RUA,M_N_RUA
+F,Normal,LUA,F_N_LUA
+F,Normal,RMA,F_N_RMA
+F,Normal,LMA,F_N_LMA
+M,Normal,RLA,M_N_RLA
+M,Normal,LLA,M_N_LLA
+M,Pleural Rub,RMA,M_PR_RMA
+M,Pleural Rub,LUA,M_PR_LUA
+F,Rhonchi,LUA,F_R_LUA
+M,Wheezing,LUA,M_W_LUA
+M,Fine Crackles,LUA,M_C_LUA
+M,Normal,LUA,M_N_LUA
+M,Coarse Crackles,LLA,M_G_LLA
+M,Coarse Crackles,LUA,M_G_LUA
+F,Fine Crackles,LUA,F_C_LUA
+M,Coarse Crackles,RLA,M_G_RLA
+F,Rhonchi,RLA,F_R_RLA
+F,Wheezing,RUA,F_W_RUA
+M,Pleural Rub,LLA,M_PR_LLA
+M,Pleural Rub,LMA,M_PR_LMA
+M,Rhonchi,RUA,M_R_RUA
+M,Fine Crackles,RUA,M_C_RUA
+M,Rhonchi,LUA,M_R_LUA
+F,Pleural Rub,LMA,F_PR_LMA
+F,Coarse Crackles,LMA,F_G_LMA
+F,Coarse Crackles,RLA,F_G_RLA
+M,Fine Crackles,RLA,M_C_RLA
+F,Coarse Crackles,RMA,F_G_RMA
+M,Wheezing,RLA,M_W_RLA
+M,Rhonchi,RLA,M_R_RLA
+F,Fine Crackles,RLA,F_C_RLA
+M,Normal,RMA,M_N_RMA
+M,Rhonchi,LMA,M_R_LMA
+F,Coarse Crackles,LLA,F_G_LLA
+F,Rhonchi,LMA,F_R_LMA
+F,Normal,LLA,F_N_LLA
+M,Wheezing,RUA,M_W_RUA
+M,Normal,LMA,M_N_LMA
+F,Pleural Rub,LLA,F_PR_LLA
+M,Wheezing,RMA,M_W_RMA
+M,Pleural Rub,RUA,M_PR_RUA
+M,Wheezing,LLA,M_W_LLA
+M,Rhonchi,LLA,M_R_LLA
+F,Normal,RLA,F_N_RLA
+M,Coarse Crackles,LMA,M_G_LMA
+M,Wheezing,LMA, M_W_LMA
+F,Normal,RUA,F_N_RUA
+M,Pleural Rub,RLA,M_PR_RLA
+F,Coarse Crackles,LUA,F_G_LUA
+F,Pleural Rub,LUA,F_PR_LUA

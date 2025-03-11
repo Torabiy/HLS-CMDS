@@ -1,0 +1,146 @@
+Gender,Heart Sound Type,Lung Sound Type,Location,Heart Sound ID,Lung Sound ID,Mixed Sound ID
+F,Late Systolic Murmur,Rhonchi,LUSB,H0001,L0001,M0001
+F,S3,Normal,RLA,H0002,L0002,M0002
+M,Atrial Fibrillation,Normal,LMA,H0003,L0003,M0003
+F,S3,Coarse Crackles,Apex,H0004,L0004,M0004
+M,AV Block,Fine Crackles,RUSB,H0005,L0005,M0005
+F,S3,Pleural Rub,RC,H0006,L0006,M0006
+M,Tachycardia,Pleural Rub,Apex,H0007,L0007,M0007
+F,Early Systolic Murmur,Pleural Rub,LMA,H0008,L0008,M0008
+M,Mid Systolic Murmur,Wheezing,LUA,H0009,L0009,M0009
+F,Early Systolic Murmur,Coarse Crackles,LUA,H0010,L0010,M0010
+M,S4,Normal,Apex,H0011,L0011,M0011
+F,AV Block,Rhonchi,RMA,H0012,L0012,M0012
+F,Atrial Fibrillation,Pleural Rub,RC,H0013,L0013,M0013
+F,Late Diastolic Murmur,Rhonchi,LUA,H0014,L0014,M0014
+F,Late Diastolic Murmur,Coarse Crackles,LUA,H0015,L0015,M0015
+F,Atrial Fibrillation,Rhonchi,RLA,H0016,L0016,M0016
+F,S3,Coarse Crackles,RC,H0017,L0017,M0017
+F,Late Systolic Murmur,Wheezing,RMA,H0018,L0018,M0018
+M,Tachycardia,Pleural Rub,RUA,H0019,L0019,M0019
+F,Late Diastolic Murmur,Normal,RLA,H0020,L0020,M0020
+M,Late Systolic Murmur,Coarse Crackles,LUSB,H0021,L0021,M0021
+M,AV Block,Fine Crackles,LMA,H0022,L0022,M0022
+M,Tachycardia,Normal,LC,H0023,L0023,M0023
+M,S4,Wheezing,LUSB,H0024,L0024,M0024
+M,Atrial Fibrillation,Pleural Rub,RC,H0025,L0025,M0025
+F,S3,Pleural Rub,LUSB,H0026,L0026,M0026
+M,Late Diastolic Murmur,Coarse Crackles,RMA,H0027,L0027,M0027
+F,AV Block,Coarse Crackles,RC,H0028,L0028,M0028
+M,Tachycardia,Pleural Rub,LC,H0029,L0029,M0029
+F,S4,Pleural Rub,RC,H0030,L0030,M0030
+F,Late Systolic Murmur,Fine Crackles,RC,H0031,L0031,M0031
+F,Tachycardia,Pleural Rub,LUA,H0032,L0032,M0032
+F,Late Systolic Murmur,Fine Crackles,LUSB,H0033,L0033,M0033
+M,Early Systolic Murmur,Coarse Crackles,RC,H0034,L0034,M0034
+M,S4,Fine Crackles,RLA,H0035,L0035,M0035
+M,S3,Normal,LUA,H0036,L0036,M0036
+M,AV Block,Normal,LLSB,H0037,L0037,M0037
+F,S3,Normal,LLSB,H0038,L0038,M0038
+M,Normal,Wheezing,LC,H0039,L0039,M0039
+M,Tachycardia,Rhonchi,LC,H0040,L0040,M0040
+F,Atrial Fibrillation,Normal,LLA,H0041,L0041,M0041
+F,Mid Systolic Murmur,Coarse Crackles,RUA,H0042,L0042,M0042
+M,Tachycardia,Pleural Rub,LLSB,H0043,L0043,M0043
+M,Normal,Coarse Crackles,RC,H0044,L0044,M0044
+M,Late Diastolic Murmur,Fine Crackles,LLSB,H0045,L0045,M0045
+F,Atrial Fibrillation,Normal,LMA,H0046,L0046,M0046
+M,Atrial Fibrillation,Rhonchi,RMA,H0047,L0047,M0047
+F,S4,Wheezing,RLA,H0048,L0048,M0048
+M,S4,Rhonchi,RUA,H0049,L0049,M0049
+F,Early Systolic Murmur,Wheezing,LUSB,H0050,L0050,M0050
+F,Tachycardia,Normal,RC,H0051,L0051,M0051
+F,Early Systolic Murmur,Pleural Rub,LC,H0052,L0052,M0052
+F,Atrial Fibrillation,Coarse Crackles,LLSB,H0053,L0053,M0053
+F,Late Diastolic Murmur,Wheezing,RUSB,H0054,L0054,M0054
+M,Late Systolic Murmur,Fine Crackles,RC,H0055,L0055,M0055
+F,AV Block,Rhonchi,LUSB,H0056,L0056,M0056
+F,Late Diastolic Murmur,Coarse Crackles,RLA,H0057,L0057,M0057
+M,S4,Rhonchi,RUSB,H0058,L0058,M0058
+F,S3,Pleural Rub,RLA,H0059,L0059,M0059
+M,Late Diastolic Murmur,Wheezing,LMA,H0060,L0060,M0060
+F,S4,Rhonchi,LLSB,H0061,L0061,M0061
+F,Tachycardia,Coarse Crackles,RMA,H0062,L0062,M0062
+F,S4,Pleural Rub,RUA,H0063,L0063,M0063
+M,S4,Pleural Rub,Apex,H0064,L0064,M0064
+F,Atrial Fibrillation,Pleural Rub,Apex,H0065,L0065,M0065
+M,Normal,Normal,LLSB,H0066,L0066,M0066
+F,Atrial Fibrillation,Rhonchi,RUA,H0067,L0067,M0067
+M,S3,Fine Crackles,RUSB,H0068,L0068,M0068
+M,Late Systolic Murmur,Coarse Crackles,RLA,H0069,L0069,M0069
+F,Late Systolic Murmur,Normal,LUA,H0070,L0070,M0070
+M,S3,Rhonchi,RUSB,H0071,L0071,M0071
+M,S3,Pleural Rub,Apex,H0072,L0072,M0072
+M,Mid Systolic Murmur,Pleural Rub,LMA,H0073,L0073,M0073
+F,Normal,Normal,RUA,H0074,L0074,M0074
+F,Early Systolic Murmur,Pleural Rub,LUSB,H0075,L0075,M0075
+F,Mid Systolic Murmur,Fine Crackles,LMA,H0076,L0076,M0076
+F,Late Diastolic Murmur,Rhonchi,RUA,H0077,L0077,M0077
+M,Late Systolic Murmur,Normal,RMA,H0078,L0078,M0078
+F,Tachycardia,Coarse Crackles,LC,H0079,L0079,M0079
+M,Mid Systolic Murmur,Pleural Rub,LUSB,H0080,L0080,M0080
+F,Late Systolic Murmur,Wheezing,LLSB,H0081,L0081,M0081
+F,Late Systolic Murmur,Fine Crackles,LUA,H0082,L0082,M0082
+M,AV Block,Pleural Rub,LLSB,H0083,L0083,M0083
+M,Early Systolic Murmur,Normal,LMA,H0084,L0084,M0084
+F,Normal,Rhonchi,LC,H0085,L0085,M0085
+M,Mid Systolic Murmur,Wheezing,LMA,H0086,L0086,M0086
+M,Atrial Fibrillation,Coarse Crackles,LMA,H0087,L0087,M0087
+M,S4,Rhonchi,LC,H0088,L0088,M0088
+M,Mid Systolic Murmur,Wheezing,LC,H0089,L0089,M0089
+M,Tachycardia,Rhonchi,RUA,H0090,L0090,M0090
+M,Atrial Fibrillation,Rhonchi,RUSB,H0091,L0091,M0091
+M,S4,Wheezing,RC,H0092,L0092,M0092
+M,AV Block,Coarse Crackles,LMA,H0093,L0093,M0093
+M,Late Systolic Murmur,Rhonchi,LC,H0094,L0094,M0094
+F,Mid Systolic Murmur,Normal,Apex,H0095,L0095,M0095
+M,Normal,Rhonchi,LUA,H0096,L0096,M0096
+F,Late Diastolic Murmur,Pleural Rub,RUSB,H0097,L0097,M0097
+M,Tachycardia,Wheezing,LUSB,H0098,L0098,M0098
+F,AV Block,Fine Crackles,RUSB,H0099,L0099,M0099
+F,Late Systolic Murmur,Coarse Crackles,LLSB,H0100,L0100,M0100
+M,Late Systolic Murmur,Wheezing,RMA,H0101,L0101,M0101
+M,Atrial Fibrillation,Pleural Rub,RLA,H0102,L0102,M0102
+F,Normal,Wheezing,LLA,H0103,L0103,M0103
+M,Mid Systolic Murmur,Fine Crackles,LUSB,H0104,L0104,M0104
+F,Late Systolic Murmur,Wheezing,RUSB,H0105,L0105,M0105
+M,Normal,Rhonchi,RC,H0106,L0106,M0106
+M,Normal,Pleural Rub,LLSB,H0107,L0107,M0107
+F,Late Systolic Murmur,Rhonchi,LUA,H0108,L0108,M0108
+F,Mid Systolic Murmur,Fine Crackles,LLA,H0109,L0109,M0109
+F,Early Systolic Murmur,Normal,RLA,H0110,L0110,M0110
+F,Normal,Fine Crackles,LLA,H0111,L0111,M0111
+F,Late Systolic Murmur,Pleural Rub,LLA,H0112,L0112,M0112
+F,Mid Systolic Murmur,Rhonchi,RUSB,H0113,L0113,M0113
+M,Atrial Fibrillation,Wheezing,Apex,H0114,L0114,M0114
+F,Atrial Fibrillation,Fine Crackles,LLA,H0115,L0115,M0115
+M,S4,Coarse Crackles,RUA,H0116,L0116,M0116
+M,Early Systolic Murmur,Rhonchi,RMA,H0117,L0117,M0117
+M,Tachycardia,Fine Crackles,RMA,H0118,L0118,M0118
+F,S3,Wheezing,LLA,H0119,L0119,M0119
+F,Early Systolic Murmur,Fine Crackles,LLA,H0120,L0120,M0120
+F,AV Block,Wheezing,LLA,H0121,L0121,M0121
+M,Normal,Normal,RC,H0122,L0122,M0122
+M,Late Diastolic Murmur,Wheezing,LMA,H0123,L0123,M0123
+M,AV Block,Wheezing,RMA,H0124,L0124,M0124
+F,Mid Systolic Murmur,Normal,LUSB,H0125,L0125,M0125
+F,Normal,Fine Crackles,LLA,H0126,L0126,M0126
+M,S3,Wheezing,LLA,H0127,L0127,M0127
+F,Mid Systolic Murmur,Fine Crackles,RUSB,H0128,L0128,M0128
+F,Tachycardia,Wheezing,Apex,H0129,L0129,M0129
+F,Early Systolic Murmur,Normal,LLSB,H0130,L0130,M0130
+M,S4,Fine Crackles,LC,H0131,L0131,M0131
+M,S3,Wheezing,LUA,H0132,L0132,M0132
+F,Normal,Fine Crackles,Apex,H0133,L0133,M0133
+M,AV Block,Normal,LMA,H0134,L0134,M0134
+M,S4,Normal,LC,H0135,L0135,M0135
+M,Tachycardia,Wheezing,RUSB,H0136,L0136,M0136
+M,Late Diastolic Murmur,Fine Crackles,Apex,H0137,L0137,M0137
+M,Tachycardia,Normal,LLA,H0138,L0138,M0138
+M,S3,Wheezing,LC,H0139,L0139,M0139
+F,Early Systolic Murmur,Normal,RLA,H0140,L0140,M0140
+M,S4,Wheezing,Apex,H0141,L0141,M0141
+F,Mid Systolic Murmur,Normal,RMA,H0142,L0142,M0142
+F,Early Systolic Murmur,Wheezing,RLA,H0143,L0143,M0143
+F,AV Block,Normal,LUA,H0144,L0144,M0144
+M,Late Diastolic Murmur,Normal,RUSB,H0145,L0145,M0145
