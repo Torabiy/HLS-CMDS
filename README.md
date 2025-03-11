@@ -2,9 +2,9 @@
 # Heart and Lung Sounds Dataset Recorded from a Clinical Manikin using Digital Stethoscope (HLS-CMDS)
 
 
-**For downloading the dataset and more details, including collection methods and technical information, please visit:**
+**For downloading the latest dataset and more details, including collection methods and technical information, please visit:**
 
-- **Mendeley Database**: https://doi.org/10.17632/8972jxbpmp.1
+- **Mendeley Database - Latest Version**: https://doi.org/10.17632/8972jxbpmp.2
 - **Related Paper**: https://doi.org/10.48550/arXiv.2410.03280
 
 
@@ -27,6 +27,7 @@ This dataset contains 210 recordings of heart and lung sounds captured using a d
 - **Sound Types:** Normal Heart, Late Diastolic Murmur, Mid Systolic Murmur, Late Systolic Murmur, Atrial Fibrillation, Fourth Heart Sound, Early Systolic Murmur, Third Heart Sound, Tachycardia, Atrioventricular Block, Normal Lung, Wheezing, Crackles, Rhonchi, Pleural Rub, and Gurgling.
 - **Auscultation Landmarks:** Right Upper Sternal Border, Left Upper Sternal Border, Lower Left Sternal Border, Right Costal Margin, Left Costal Margin, Apex, Right Upper Anterior, Left Upper Anterior, Right Mid Anterior, Left Mid Anterior, Right Lower Anterior, and Left Lower Anterior.
 - **Applications:** AI-based cardiopulmonary disease detection, unsupervised sound separation techniques, deep learning for audio signal processing.
+- - **Mendeley Database - Version 1**: https://doi.org/10.17632/8972jxbpmp.1
 
 
 ## About the Code
