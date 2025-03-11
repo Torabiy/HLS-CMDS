@@ -1,4 +1,4 @@
-# Heart and Lung Sounds Dataset Recorded from a Clinical Manikin using Digital Stethoscope (HLS-CMDS)
+# -UPDATED!!-Heart and Lung Sounds Dataset Recorded from a Clinical Manikin using Digital Stethoscope (HLS-CMDS)
 
 
 **For downloading the dataset and more details, including collection methods and technical information, please visit:**
@@ -7,7 +7,11 @@
 - **Related Paper**: https://doi.org/10.48550/arXiv.2410.03280
 
 
-## About the Dataset
+## About the Dataset - Version 2
+
+This dataset contains 535 recordings of heart and lung sounds captured using a digital stethoscope from a clinical manikin, including both individual and mixed recordings of heart and lung sounds; 50 heart sounds, 50 lung sounds, and 145 mixed sounds. For each mixed sound, the corresponding source heart sound (145 recordings) and source lung sound (145 recordings) were also recorded. It includes recordings from different anatomical chest locations, with normal and abnormal sounds. Each recording has been filtered to highlight specific sound types, making it valuable for artificial intelligence (AI) research and applications in areas such as automated cardiopulmonary disease detection, sound classification, and deep learning algorithms related to audio signal processing.
+
+## About the Dataset - Version 1
 
 This dataset contains 210 recordings of heart and lung sounds captured using a digital stethoscope from a clinical manikin, including both individual and mixed recordings of heart and lung sounds; 50 heart sounds, 50 lung sounds, and 110 mixed sounds. It includes recordings from different anatomical chest locations, with normal and abnormal sounds. Each recording has been filtered to highlight specific sound types, making it valuable for artificial intelligence (AI) research and applications in areas such as automated cardiopulmonary disease detection, sound classification, and deep learning algorithms related to audio signal processing.
 
