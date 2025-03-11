@@ -1,4 +1,5 @@
-# -UPDATED!!-Heart and Lung Sounds Dataset Recorded from a Clinical Manikin using Digital Stethoscope (HLS-CMDS)
+#  🚨 **!!UPDATED!!** 🚨
+# Heart and Lung Sounds Dataset Recorded from a Clinical Manikin using Digital Stethoscope (HLS-CMDS)
 
 
 **For downloading the dataset and more details, including collection methods and technical information, please visit:**
@@ -10,6 +11,11 @@
 ## About the Dataset - Version 2
 
 This dataset contains 535 recordings of heart and lung sounds captured using a digital stethoscope from a clinical manikin, including both individual and mixed recordings of heart and lung sounds; 50 heart sounds, 50 lung sounds, and 145 mixed sounds. For each mixed sound, the corresponding source heart sound (145 recordings) and source lung sound (145 recordings) were also recorded. It includes recordings from different anatomical chest locations, with normal and abnormal sounds. Each recording has been filtered to highlight specific sound types, making it valuable for artificial intelligence (AI) research and applications in areas such as automated cardiopulmonary disease detection, sound classification, and deep learning algorithms related to audio signal processing.
+- **Recording Sources:** Heart and lung sounds captured from a clinical manikin simulating real physiological conditions.
+- **Data Type:** Audio files (.wav format)
+- **Sound Types:** Normal Heart, Late Diastolic Murmur, Mid Systolic Murmur, Late Systolic Murmur, Atrial Fibrillation, Fourth Heart Sound, Early Systolic Murmur, Third Heart Sound, Tachycardia, Atrioventricular Block, Normal Lung, Wheezing, Fine Crackles, Rhonchi, Pleural Rub, and Coarse Crackles.
+- **Auscultation Landmarks:** Right Upper Sternal Border, Left Upper Sternal Border, Lower Left Sternal Border, Right Costal Margin, Left Costal Margin, Apex, Right Upper Anterior, Left Upper Anterior, Right Mid Anterior, Left Mid Anterior, Right Lower Anterior, and Left Lower Anterior.
+- **Applications:** AI-based cardiopulmonary disease detection, unsupervised sound separation techniques, deep learning for audio signal processing.
 
 ## About the Dataset - Version 1
 
