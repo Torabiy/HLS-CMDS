@@ -11,9 +11,9 @@ This Python script allows you to visualize and plot time-domain waveforms of aud
 
 ## Citation:
 If you use this code or the associated dataset in your research, please cite the following paper:
-- Torabi, Y., Shirani, S., & Reilly, J. P. (2024), 
-Manikin-Recorded Cardiopulmonary Sounds Dataset Using Digital Stethoscope,
-arXiv preprint, https://doi.org/10.48550/arXiv.2410.03280
+- Y. Torabi, S. Shirani and J. P. Reilly,
+"Descriptor: Heart and Lung Sounds Dataset Recorded from a Clinical Manikin using Digital Stethoscope (HLS-CMDS)," in IEEE Data Descriptions,
+doi: 10.1109/IEEEDATA.2025.3566012.
 
 ## Copyright:
 © 2024 by Yasaman Torabi. All rights reserved.
