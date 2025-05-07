@@ -1,11 +1,10 @@
-#  🚨 **!!UPDATED!!** 🚨
+#  🚨 **New Update: Accepted in <i> IEEE Data Descriptions </i>!** 🚨
 # Heart and Lung Sounds Dataset Recorded from a Clinical Manikin using Digital Stethoscope (HLS-CMDS)
 
 
 **For downloading the latest dataset and more details, including collection methods and technical information, please visit:**
 
-- **Mendeley Database - Latest Version**: https://doi.org/10.17632/8972jxbpmp.2
-- **Related Paper**: https://doi.org/10.48550/arXiv.2410.03280
+- Y. Torabi, S. Shirani and J. P. Reilly, "Descriptor: Heart and Lung Sounds Dataset Recorded from a Clinical Manikin using Digital Stethoscope (HLS-CMDS)," in IEEE Data Descriptions, doi: 10.1109/IEEEDATA.2025.3566012.
 
 
 ## About the Dataset - Version 2
@@ -27,7 +26,6 @@ This dataset contains 210 recordings of heart and lung sounds captured using a d
 - **Sound Types:** Normal Heart, Late Diastolic Murmur, Mid Systolic Murmur, Late Systolic Murmur, Atrial Fibrillation, Fourth Heart Sound, Early Systolic Murmur, Third Heart Sound, Tachycardia, Atrioventricular Block, Normal Lung, Wheezing, Crackles, Rhonchi, Pleural Rub, and Gurgling.
 - **Auscultation Landmarks:** Right Upper Sternal Border, Left Upper Sternal Border, Lower Left Sternal Border, Right Costal Margin, Left Costal Margin, Apex, Right Upper Anterior, Left Upper Anterior, Right Mid Anterior, Left Mid Anterior, Right Lower Anterior, and Left Lower Anterior.
 - **Applications:** AI-based cardiopulmonary disease detection, unsupervised sound separation techniques, deep learning for audio signal processing.
-- - **Mendeley Database - Version 1**: https://doi.org/10.17632/8972jxbpmp.1
 
 
 ## About the Code
@@ -57,13 +55,8 @@ We would like to acknowledge the Mohawk Institute for Applied Health Sciences (I
 
 ## Citation:
 If you use this code or dataset in your research, please cite:
-- Torabi, Yasaman; Shirani, Shahram; Reilly, James P. (2024), 
-Manikin-Recorded Cardiopulmonary Sounds Dataset Using Digital Stethoscope,
-arXiv preprint, https://doi.org/10.48550/arXiv.2410.03280
 
-- Torabi, Yasaman; Shirani, Shahram; Reilly, James P. (2024),
-“HLS-CMDS: Heart and Lung Sounds Dataset Recorded from a Clinical Manikin using Digital Stethoscope”,
- Mendeley Data, V1, doi: 10.17632/8972jxbpmp.1
+- Y. Torabi, S. Shirani and J. P. Reilly, "Descriptor: Heart and Lung Sounds Dataset Recorded from a Clinical Manikin using Digital Stethoscope (HLS-CMDS)," in IEEE Data Descriptions, doi: 10.1109/IEEEDATA.2025.3566012.
 
 © 2024 by Yasaman Torabi. All rights reserved.
 
