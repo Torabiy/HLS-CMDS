@@ -1,4 +1,4 @@
-#  🚨 **New Update: Accepted in <i> IEEE Data Descriptions Journal</i>!** 🚨
+#  🚨 **Published in <i> IEEE Data Descriptions Journal</i>** 🚨
 # Heart and Lung Sounds Dataset Recorded from a Clinical Manikin using Digital Stethoscope (HLS-CMDS)
 
 
